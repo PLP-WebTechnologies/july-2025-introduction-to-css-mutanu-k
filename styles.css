@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;  
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+.site-header {
+  background-color: #4CAF50;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.card {
+  background-color: white;
+  border: 2px solid #ddd;   
+  margin: 20px;             
+  padding: 15px;            
+  border-radius: 8px;
+}
+
+.card.highlight {
+  border-color: #4CAF50;
+  background-color: #e8f5e9;
+}
+
+.btn {
+  display: block;
+  margin: 20px auto;  
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background-color: #45a049;
+}
+
+.site-footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+
